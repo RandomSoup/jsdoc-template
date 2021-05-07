@@ -1,0 +1,23 @@
+{
+  "name": "@craft-devs/jsdoc-template",
+  "version": "0.1.1",
+  "description": "Modified version of the default JSDoc template.",
+  "main": "publish.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/craft-devs/jsdoc-template.git"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/craft-devs/jsdoc-template/issues"
+  },
+  "homepage": "https://github.com/craft-devs/jsdoc-template#readme",
+  "dependencies": {
+    "taffydb": "2.6.2",
+    "underscore": "~1.13"
+  }
+}
